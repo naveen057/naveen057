@@ -1,339 +1,392 @@
-# 👋 Hi, I'm Thura Venkata Naveen
+# 🌌 Thura Venkata Naveen | AI/ML Engineer
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,45:075985,75:0F766E,100:7C3AED&text=THURA%20VENKATA%20NAVEEN&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Applied%20LLMs&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aurora gradient profile banner"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,40:6D28D9,75:0891B2,100:0F172A&text=AI%2FML%20Engineer%20in%20Progress&fontColor=FFFFFF&fontSize=34&animation=fadeIn&fontAlignY=45&desc=Python%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=65&descSize=17" width="100%" alt="AI ML portfolio gradient banner"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+practical+AI+applications;Turning+data+into+actionable+insights;Exploring+Deep+Learning+with+PyTorch;Developing+LLM+and+RAG+systems;From+ML+experiments+to+deployable+APIs" alt="Animated introduction"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Generative+AI;Python+%7C+FastAPI+%7C+Streamlit" alt="Animated skills introduction"/>
-
-🎓 **B.Tech Graduate in Computer Science Engineering**  
-Sri Venkateswara University College of Engineering (SVUCE)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=for-the-badge)](https://naveen057.ccbp.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-naveen-thura/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057)
-
-</div>
-
----
-
-## 🧭 Explore My Profile
-
-<div align="center">
-
-[🙋 About](#-about-me) · [🛠️ Skills](#-my-technical-toolkit) · [🚀 Projects](#-featured-projects) · [🔄 Workflow](#-how-i-build-ai-applications) · [📊 Stats](#-github-dashboard) · [📬 Contact](#-lets-connect)
-
-</div>
-
-## 🙋 About Me
-
-I'm passionate about building practical AI applications, solving real-world problems with data, and exploring Machine Learning, Deep Learning, and Generative AI.
-
-- 🔭 Building AI/ML applications and intelligent solutions.
-- 🌱 Exploring Deep Learning, PyTorch, LLMs, and RAG.
-- 🧠 Interested in Machine Learning, NLP, and Generative AI.
-- 💻 Developing applications using Python, FastAPI, and Streamlit.
-- 🎯 Seeking entry-level opportunities in AI/ML, Data Science, and Python Development.
-- 🤝 Open to collaboration, new challenges, and continuous learning.
+<p align="center">
+  <a href="https://github.com/naveen057"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/venkata-naveen-thura/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://naveen057.ccbp.tech"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:venkatanaveendcme057@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🛠️ My Technical Toolkit
+## ✨ About Me
 
-<div align="center">
+Hi! I'm **Thura Venkata Naveen**, a Computer Science Engineering graduate from Sri Venkateswara University College of Engineering (SVUCE), 2026.
 
-### 💻 Programming and Data
+I'm focused on building practical AI and machine learning applications that connect data, intelligent models, retrieval systems, and production-ready APIs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- 🤖 Exploring machine learning, deep learning, NLP, and applied LLMs.
+- 🔎 Building retrieval-augmented applications using embeddings, FAISS, BM25, hybrid search, and reranking.
+- 📊 Working with data analysis, model evaluation, feature engineering, and statistical methods.
+- ⚙️ Developing APIs and interfaces with FastAPI and Streamlit.
+- 🧠 Currently strengthening my deep learning skills with PyTorch.
+- 🎯 Seeking entry-level opportunities in AI/ML engineering, data science, and Python development.
 
-### 🤖 Machine Learning and AI
+> My goal: build AI systems that are understandable, measurable, useful, and deployable.
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189B58?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+## 🧭 My AI Engineering Journey
 
-### ✨ Generative AI and Retrieval
+```mermaid
+flowchart TD
+    A["📚 Python & Mathematics"] --> B["📊 Data Analysis"]
+    B --> C["🧹 Data Preparation & Feature Engineering"]
+    C --> D["🤖 Machine Learning"]
+    D --> E["🧠 Deep Learning"]
+    E --> F["💬 NLP & LLM Applications"]
+    F --> G["🔎 Retrieval & RAG"]
+    G --> H["⚙️ FastAPI & Streamlit"]
+    H --> I["🚀 Evaluation & Deployment"]
 
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+    classDef foundation fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef modeling fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef ai fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+    classDef deploy fill:#164E63,stroke:#67E8F9,color:#FFFFFF
 
-### 🌐 Application Development
+    class A,B,C foundation
+    class D,E modeling
+    class F,G ai
+    class H,I deploy
+```
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Technical Skills
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,git,github,docker,pytorch,tensorflow&theme=dark" alt="Technology icons"/>
+</p>
 
-<details>
-<summary><b>🔎 View skills by category</b></summary>
-
-| Category | Skills |
+| Area | Technologies and concepts |
 |---|---|
 | Programming | Python, SQL |
-| Data Analysis | NumPy, Pandas, Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, XGBoost, Joblib, feature engineering, model evaluation |
-| Deep Learning | TensorFlow, PyTorch, neural networks |
-| Generative AI | NLP, LLMs, RAG, prompt engineering, Google Gemini API |
-| Information Retrieval | FAISS, BM25, embeddings, hybrid search, reranking |
-| APIs and Frameworks | FastAPI, Streamlit, REST APIs |
-| Databases and Tools | MySQL, SQLAlchemy ORM, Pydantic, Git, GitHub, Jupyter Notebook |
-
-</details>
-
----
+| Data analysis | NumPy, Pandas, Matplotlib, Seaborn |
+| Machine learning | Scikit-learn, XGBoost, feature engineering, model evaluation, hyperparameter tuning |
+| Deep learning | Neural networks, CNN fundamentals, PyTorch learning, TensorFlow |
+| NLP & LLMs | Embeddings, prompt engineering, Google Gemini API, RAG |
+| Information retrieval | FAISS, BM25, hybrid search, Reciprocal Rank Fusion (RRF), cross-encoder reranking |
+| Backend development | FastAPI, REST APIs, Pydantic, SQLAlchemy ORM |
+| Databases | MySQL |
+| Applications | Streamlit |
+| Tools | Git, GitHub, Joblib, Docker |
 
 ## 🚀 Featured Projects
 
-*Explore the projects, understand the problem each one addresses, and open the live applications where available.*
+Projects are organized by the engineering problem they solve. Each project links to its source repository; a live demo is shown only where a public URL has been verified or supplied and clearly identified.
 
-### 🧠 1. Resume Intelligence
+### 01 · Resume Intelligence
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20Information%20Retrieval-075985?style=flat-square" alt="AI and retrieval"/>
+  <img src="https://img.shields.io/badge/Interface-Streamlit-0F766E?style=flat-square" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/API-FastAPI-7C3AED?style=flat-square" alt="FastAPI"/>
+</p>
 
-![AI](https://img.shields.io/badge/Project-Generative_AI-6D28D9?style=flat-square)
-![RAG](https://img.shields.io/badge/Technique-RAG-0891B2?style=flat-square)
-![Deployment](https://img.shields.io/badge/Interface-Streamlit-FF4B4B?style=flat-square)
+**Problem:** Comparing resumes with job descriptions can be time-consuming, and simple keyword matching can miss relevant experience.
 
-</div>
+**Solution:** A resume-to-job matching application that combines lexical and semantic retrieval, rank fusion, reranking, and AI-generated explanations.
 
-**Problem:** Comparing resumes with job descriptions manually can be time-consuming.
-
-**Solution:** An AI-powered application that compares resumes with job requirements, retrieves relevant evidence, highlights matching skills, and identifies skill gaps.
-
-**Tech stack:** Python · NLP · RAG · FAISS · BM25 · Gemini API · FastAPI · Streamlit
-
-<div align="center">
-
-[![🚀 Open Live Demo](https://img.shields.io/badge/🚀_Open_Live_Demo-6D28D9?style=for-the-badge)](https://resume-intelligence-entgyngd5vq2pmrrpzyf84.streamlit.app/)
-[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/resume-intelligence)
-
-</div>
-
-<details>
-<summary><b>🔍 How it works</b></summary>
+**Project journey**
 
 ```mermaid
 flowchart TD
-    A["📄 Resume"] --> C["🔎 Document Processing"]
-    B["📋 Job Description"] --> C
-    C --> D["🧠 Hybrid Retrieval"]
-    D --> E["📊 Match Evidence and Skills"]
-    E --> F["✨ AI Explanation and Recommendations"]
+    A["📄 Resume"] --> C["Text extraction"]
+    B["💼 Job description"] --> D["Requirement analysis"]
+    C --> E["Candidate evidence"]
+    D --> F["Search query"]
+    E --> G["BM25 + dense FAISS retrieval"]
+    F --> G
+    G --> H["RRF rank fusion"]
+    H --> I["Cross-encoder reranking"]
+    I --> J["Evidence-based match assessment"]
+    J --> K["Gemini explanation"]
+    K --> L["Streamlit interface / FastAPI"]
 
-    style A fill:#1D4ED8,color:#fff
-    style B fill:#0E7490,color:#fff
-    style D fill:#6D28D9,color:#fff
-    style F fill:#166534,color:#fff
+    classDef input fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef retrieval fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef output fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+
+    class A,B,C,D input
+    class E,F,G,H,I retrieval
+    class J,K,L output
 ```
 
-</details>
+**What it demonstrates**
+- Combining keyword and semantic retrieval.
+- Improving ranking through fusion and reranking.
+- Separating evidence-based matching from generated explanations.
+- Connecting an AI workflow to a user-facing application and API.
 
-### 🛡️ 2. Intelligent Transaction Risk Detection
+<p>
+  <a href="https://github.com/naveen057/resume-intelligence"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View Resume Intelligence source"/></a>
+</p>
 
-<div align="center">
+*Live demo: a previously supplied Streamlit URL has not been independently verified, so it is intentionally not presented here as a confirmed live demo.*
 
-![Machine Learning](https://img.shields.io/badge/Project-Machine_Learning-0891B2?style=flat-square)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square)
-![Render](https://img.shields.io/badge/Hosting-Render-7C3AED?style=flat-square)
+### 02 · Fraud Detection API
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Domain-Financial%20Machine%20Learning-075985?style=flat-square" alt="Financial ML"/>
+  <img src="https://img.shields.io/badge/Backend-FastAPI-0F766E?style=flat-square" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Deployment-Render-7C3AED?style=flat-square" alt="Render"/>
+</p>
 
-**Problem:** Suspicious financial transactions need to be identified without flagging every legitimate payment.
+**Problem:** Financial transaction systems need a way to identify potentially risky transactions from transaction features.
 
-**Solution:** An end-to-end ML application that evaluates transaction information, estimates fraud risk, and provides a prediction through a web interface and API.
+**Solution:** A machine learning project that evaluates transaction risk and exposes predictions through an API.
 
-**Tech stack:** Python · Pandas · Scikit-learn · XGBoost · FastAPI · Joblib · Docker
-
-<div align="center">
-
-[![🚀 Open Live Demo](https://img.shields.io/badge/🚀_Open_Live_Demo-0891B2?style=for-the-badge)](https://fraud-detection-dz3c.onrender.com/)
-[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/fraud-detection)
-[![📘 API Docs](https://img.shields.io/badge/📘_API_Docs-009688?style=for-the-badge)](https://fraud-detection-dz3c.onrender.com/docs)
-
-</div>
-
-<details>
-<summary><b>🔍 How it works</b></summary>
+**Project journey**
 
 ```mermaid
 flowchart TD
-    A["💳 Transaction Data"] --> B["🧹 Preprocessing"]
-    B --> C["⚙️ Feature Engineering"]
-    C --> D["🤖 ML Risk Model"]
-    D --> E{"Risk Assessment"}
-    E --> F["🟢 Lower Estimated Risk"]
-    E --> G["🔴 Higher Estimated Risk"]
-    F --> H["📊 Display Result"]
-    G --> H
+    A["📊 Transaction dataset"] --> B["Data preparation"]
+    B --> C["Train / validation evaluation"]
+    C --> D["Model training"]
+    D --> E["Threshold selection"]
+    E --> F["Model evaluation"]
+    F --> G["Save model artifacts"]
+    G --> H["FastAPI prediction endpoint"]
+    H --> I["Transaction features"]
+    I --> J["Risk prediction"]
+    J --> K["Client receives response"]
 
-    style A fill:#1D4ED8,color:#fff
-    style D fill:#6D28D9,color:#fff
-    style F fill:#166534,color:#fff
-    style G fill:#B91C1C,color:#fff
+    classDef data fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef model fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef service fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+
+    class A,B data
+    class C,D,E,F,G model
+    class H,I,J,K service
 ```
 
-</details>
+**What it demonstrates**
+- Transaction classification and model evaluation.
+- Decision-threshold selection.
+- Serving predictions through a REST API.
+- Packaging model artifacts for application use.
 
-*Note: This project uses synthetic transaction data. Predictions are estimates for demonstration, not definitive fraud determinations.*
+<p>
+  <a href="https://github.com/naveen057/fraud-detection"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View Fraud Detection source"/></a>
+  <a href="https://fraud-detection-dz3c.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20App-0F766E?style=for-the-badge&logo=render" alt="Open Fraud Detection live demo"/></a>
+</p>
 
-### ❤️ 3. Heart Disease Risk Prediction
+### 03 · Heart Disease Risk Prediction
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Domain-Healthcare%20ML-075985?style=flat-square" alt="Healthcare ML"/>
+  <img src="https://img.shields.io/badge/Focus-Classification-7C3AED?style=flat-square" alt="Classification"/>
+</p>
 
-![Healthcare ML](https://img.shields.io/badge/Project-Healthcare_ML-DC2626?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Model-Scikit--learn-F7931E?style=flat-square)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square)
+**Problem:** Understand how structured health-related features can be used in a classification workflow.
 
-</div>
+**Project journey**
 
-**Problem:** Understanding patterns in health-related data is an important machine learning application.
+```mermaid
+flowchart LR
+    A["Structured data"] --> B["Data cleaning"]
+    B --> C["Exploratory analysis"]
+    C --> D["Feature preparation"]
+    D --> E["Classification model"]
+    E --> F["Evaluation"]
+    F --> G["Risk prediction output"]
 
-**Solution:** A web application that processes health-related inputs and generates a model-based heart disease risk prediction.
+    classDef prep fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef model fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    class A,B,C,D prep
+    class E,F,G model
+```
 
-**Tech stack:** Python · Pandas · NumPy · Scikit-learn · FastAPI · Joblib
+**What it demonstrates**
+- Exploratory data analysis.
+- Classification workflow design.
+- Model evaluation and interpretation.
 
-<div align="center">
+<p>
+  <a href="https://github.com/naveen057/heart-disease-risk-prediction"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View Heart Disease Risk Prediction source"/></a>
+</p>
 
-[![💻 Explore Source Code](https://img.shields.io/badge/💻_Explore_Source_Code-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/heart-disease-risk-prediction)
+*This is an educational machine learning project, not a clinical diagnostic tool. No live demo is listed.*
 
-</div>
+### 04 · Multi-source Web Scraping Pipeline
 
-<details>
-<summary><b>🔍 How it works</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Domain-Data%20Engineering-075985?style=flat-square" alt="Data engineering"/>
+  <img src="https://img.shields.io/badge/Focus-Automation-0F766E?style=flat-square" alt="Automation"/>
+</p>
+
+**Problem:** Data from different websites can have inconsistent structures and require repeated manual collection.
+
+**Project journey**
 
 ```mermaid
 flowchart TD
-    A["🧑 Health-Related Inputs"] --> B["🧹 Input Processing"]
-    B --> C["🤖 Trained ML Model"]
-    C --> D["📊 Prediction Result"]
-    D --> E["🌐 FastAPI Application"]
+    A["🌐 Source websites"] --> B["HTTP requests"]
+    B --> C["HTML parsing"]
+    C --> D["Field extraction"]
+    D --> E["Normalization"]
+    E --> F["Validation & deduplication"]
+    F --> G["Structured output"]
+    G --> H["Analysis or downstream use"]
 
-    style A fill:#0E7490,color:#fff
-    style C fill:#6D28D9,color:#fff
-    style D fill:#166534,color:#fff
+    classDef source fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef processing fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef result fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+
+    class A,B source
+    class C,D,E,F processing
+    class G,H result
 ```
 
-</details>
+**What it demonstrates**
+- Extracting structured data from web pages.
+- Cleaning and standardizing records.
+- Organizing repeatable data collection workflows.
 
-*Note: The project is for educational purposes, not medical diagnosis. A verified public demo link is not currently listed.*
+<p>
+  <a href="https://github.com/naveen057/multi-source-web-scraping-pipeline"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View scraping pipeline source"/></a>
+</p>
 
-### 🌐 4. Multi-Source Web Scraping Pipeline
+### 05 · Vehicle Service Management System
 
-**Goal:** Collect data from multiple public web sources and consolidate it into a consistent dataset.
+<p>
+  <img src="https://img.shields.io/badge/Domain-Web%20Application-075985?style=flat-square" alt="Web application"/>
+  <img src="https://img.shields.io/badge/Framework-Django-0F766E?style=flat-square" alt="Django"/>
+</p>
 
-**Highlights:** Web scraping · pagination · data cleaning · schema validation · duplicate detection · CSV/JSON exports.
+**Problem:** Vehicle servicing involves customers, mechanics, service requests, repairs, invoices, and feedback.
 
-[![💻 View Repository](https://img.shields.io/badge/💻_View_Repository-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/multi-source-web-scraping-pipeline)
-
-### 🔧 5. Vehicle Service Management System
-
-**Goal:** Manage vehicle service operations through a Django application.
-
-**Highlights:** Customer management · mechanics · service requests · repairs · invoices · feedback.
-
-[![💻 View Repository](https://img.shields.io/badge/💻_View_Repository-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/vehicle-service-management-system)
-
-### 📊 6. OpenPowerlifting Data Analysis
-
-**Goal:** Explore a powerlifting dataset using Python-based data analysis.
-
-**Highlights:** Jupyter Notebook · data exploration · statistical analysis · visualizations.
-
-[![💻 View Repository](https://img.shields.io/badge/💻_View_Repository-24292F?style=for-the-badge&logo=github)](https://github.com/naveen057/openpowerlifting-data-analysis)
-
----
-
-## 🔄 How I Build AI Applications
+**Project journey**
 
 ```mermaid
 flowchart TD
-    A(["💡 Define a Problem"]) --> B["📥 Collect Data"]
-    B --> C["🧹 Clean and Explore"]
-    C --> D["⚙️ Engineer Features"]
-    D --> E["🤖 Train a Model"]
-    E --> F["📈 Evaluate Performance"]
-    F --> G{"Good Results?"}
-    G -- "Improve" --> D
-    G -- "Yes" --> H["🌐 Build an API or UI"]
-    H --> I["🚀 Deploy Application"]
-    I --> J(["✅ Test and Improve"])
+    A["👤 Customer"] --> B["Service request"]
+    B --> C["Service workflow"]
+    C --> D["🧰 Mechanic / repair"]
+    D --> E["Service completion"]
+    E --> F["Invoice"]
+    E --> G["Customer feedback"]
 
-    style A fill:#6D28D9,color:#fff
-    style E fill:#0E7490,color:#fff
-    style G fill:#92400E,color:#fff
-    style I fill:#166534,color:#fff
-    style J fill:#166534,color:#fff
+    classDef user fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef workflow fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef outcome fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+
+    class A user
+    class B,C,D workflow
+    class E,F,G outcome
 ```
 
----
+**What it demonstrates**
+- Web application development with Django.
+- Managing related business entities and workflows.
+- Organizing service requests, repairs, invoices, and feedback.
 
-## 📚 My Learning Journey
+<p>
+  <a href="https://github.com/naveen057/vehicle-service-management-system"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View Vehicle Service Management source"/></a>
+</p>
 
-<div align="center">
+### 06 · OpenPowerlifting Data Analysis
 
-![Deep Learning](https://img.shields.io/badge/Currently_Learning-Deep_Learning_with_PyTorch-EE4C2C?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Exploring-LLMs_and_RAG-6D28D9?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Domain-Exploratory%20Data%20Analysis-075985?style=flat-square" alt="Data analysis"/>
+  <img src="https://img.shields.io/badge/Focus-Visualization-7C3AED?style=flat-square" alt="Visualization"/>
+</p>
 
-</div>
+**Project journey**
 
-- [ ] Deep Learning with PyTorch
-- [ ] Convolutional Neural Networks (CNNs)
-- [ ] Transfer learning and model optimization
-- [ ] Advanced LLM and RAG applications
-- [ ] Building and deploying AI applications
+```mermaid
+flowchart LR
+    A["📂 Powerlifting dataset"] --> B["Data inspection"]
+    B --> C["Cleaning & transformation"]
+    C --> D["Exploratory analysis"]
+    D --> E["Statistical comparisons"]
+    E --> F["Visualizations"]
+    F --> G["Insights & conclusions"]
 
----
+    classDef source fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef analysis fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef insights fill:#312E81,stroke:#A78BFA,color:#FFFFFF
 
-## 📊 GitHub Dashboard
+    class A,B source
+    class C,D,E,F analysis
+    class G insights
+```
 
-<div align="center">
+**What it demonstrates**
+- Working with a real-world dataset.
+- Cleaning, analyzing, and comparing structured data.
+- Communicating findings through visualizations.
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=naveen057&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub statistics"/>
+<p>
+  <a href="https://github.com/naveen057/openpowerlifting-data-analysis"><img src="https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github" alt="View OpenPowerlifting analysis source"/></a>
+</p>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen057&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top languages"/>
+## 🏗️ How I Approach AI Applications
 
-<img src="https://streak-stats.demolab.com?user=naveen057&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=E2E8F0" alt="GitHub contribution streak"/>
+```mermaid
+flowchart TD
+    A["🎯 Define the problem"] --> B["📦 Collect data"]
+    B --> C["🧹 Prepare & validate"]
+    C --> D["🔬 Establish a baseline"]
+    D --> E["🧠 Train or retrieve"]
+    E --> F["📏 Evaluate results"]
+    F --> G{"Meets requirements?"}
+    G -->|No| H["🔁 Diagnose & improve"]
+    H --> E
+    G -->|Yes| I["⚙️ Build API or interface"]
+    I --> J["🚀 Deploy"]
+    J --> K["📈 Monitor & iterate"]
 
-</div>
+    classDef planning fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef engineering fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF
+    classDef delivery fill:#312E81,stroke:#A78BFA,color:#FFFFFF
 
----
+    class A,B,C,D planning
+    class E,F,G,H engineering
+    class I,J,K delivery
+```
 
-## 🏆 What I Bring
+My focus is on more than obtaining a model prediction. I aim to understand the data, evaluate performance, make results accessible, and communicate limitations clearly.
 
-<div align="center">
+## 📚 Current Learning Focus
 
-| 🧠 Problem Solving | 🛠️ Practical Development | 📈 Continuous Learning |
-|---|---|---|
-| Data-driven thinking | End-to-end project experience | Exploring modern AI tools |
-| ML model evaluation | APIs and web applications | Improving technical skills |
+- **Deep learning:** tensors, autograd, forward propagation, backpropagation, optimizers, CNNs, regularization, and transfer learning.
+- **Model development:** validation, error analysis, hyperparameter tuning, and reproducible experiments.
+- **LLM applications:** retrieval quality, embeddings, reranking, grounded generation, and evaluation.
+- **Deployment:** API design, input validation, testing, and containerization.
 
-</div>
+## 📊 GitHub Activity
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen057&show_icons=true&hide_border=true&bg_color=0B1026&title_color=38BDF8&text_color=C4B5FD&icon_color=2DD4BF" height="165" alt="GitHub profile statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen057&layout=compact&hide_border=true&bg_color=0B1026&title_color=38BDF8&text_color=C4B5FD" height="165" alt="Most-used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naveen057&hide_border=true&background=0B1026&ring=7C3AED&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub contribution streak"/>
+</p>
+
+*Stats and language cards are provided by external services and may occasionally be unavailable. Language percentages reflect repository contents, not a direct measure of expertise.*
 
 ## 🤝 Let's Connect
 
-<div align="center">
+I'm interested in entry-level opportunities, practical AI/ML projects, and collaborating with engineers who enjoy building useful products.
 
-I'm open to entry-level opportunities, AI/ML projects, and meaningful collaborations.
+<p align="center">
+  <a href="https://github.com/naveen057"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+  <a href="https://www.linkedin.com/in/venkata-naveen-thura/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+  <a href="https://naveen057.ccbp.tech"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:venkatanaveendcme057@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-naveen-thura/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveen057)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naveen057.ccbp.tech)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatanaveendcme057@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:0F766E,100:0B1026&height=120&section=footer" width="100%" alt="Aurora gradient footer"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:0891B2&height=120&section=footer" width="100%" alt="Gradient footer"/>
-
-**⭐ Thanks for visiting my profile!**
-
-*Keep learning. Keep building. Keep improving.* 🚀
-
-</div>
+<p align="center">
+  <i>Learn continuously. Build thoughtfully. Deploy responsibly. 🌌</i>
+</p>
