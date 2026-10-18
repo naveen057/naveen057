@@ -46,74 +46,40 @@ I'm passionate about building practical AI applications, solving real-world prob
 ## 🚀 Featured Projects
 
 ### 🧠 1. Resume Intelligence
+AI-powered resume analysis using RAG to match resumes with job descriptions, retrieve relevant evidence, and identify skill gaps.
 
-An AI-powered resume analysis application that compares resumes with job descriptions, identifies relevant skills, and highlights skill gaps with evidence-based insights.
+**Tech Stack:** Python, NLP, RAG, FAISS, BM25, Gemini API, FastAPI, Streamlit
 
-**Technologies:** Python, NLP, RAG, FAISS, BM25, Google Gemini API, FastAPI, Streamlit
+🔗 [GitHub Repository](https://github.com/naveen057/resume-intelligence) | 🌐 [Live Demo](https://resume-intelligence-entgyngd5vq2pmrrpzyf84.streamlit.app/)
 
-- Developed resume-to-job-description matching and evidence retrieval.
-- Integrated retrieval techniques to identify relevant experience and skill gaps.
-- Built an interactive interface for generating contextual resume insights.
+### 🛡️ 2. Real-Time Fraud Detection System
+Machine learning pipeline for fraud detection with threshold optimization and real-time prediction through a deployed API.
 
-🔗 [GitHub Repository](https://github.com/naveen057/resume-intelligence) | [Live Demo](https://resume-intelligence-entgyngd5vq2pmrrpzyf84.streamlit.app/)
+**Tech Stack:** Python, Pandas, Scikit-learn, FastAPI, Joblib, Docker
 
-### 🛡️ 2. Fraud Detection
-
-A machine learning project focused on identifying potentially fraudulent transactions and evaluating model performance.
-
-**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
-
-- Developed a model to classify potentially fraudulent transactions.
-- Explored decision-threshold optimization to balance fraud detection and review costs.
-
-🔗 [GitHub Repository](https://github.com/naveen057/fraud-detection)
+🔗 [GitHub Repository](https://github.com/naveen057/fraud-detection) | 🌐 [Live Demo](YOUR_FRAUD_DETECTION_DEMO_URL)
 
 ### ❤️ 3. Heart Disease Risk Prediction
+Machine learning application that predicts heart disease risk from patient health data using a deployed FastAPI service.
 
-A machine learning application that predicts heart disease risk using patient health-related inputs.
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, FastAPI, Joblib
 
-**Technologies:** Python, Scikit-learn, FastAPI, Joblib
-
-- Trained a machine learning model using health-related features.
-- Built a FastAPI endpoint to process inputs and return predictions.
-- Deployed the prediction API on Render.
-
-🔗 [GitHub Repository](https://github.com/naveen057/heart-disease-risk-prediction)
+🔗 [GitHub Repository](https://github.com/naveen057/heart-disease-risk-prediction) | 🌐 [Live Demo](YOUR_HEART_DISEASE_DEMO_URL)
 
 ### 🌐 4. Multi-Source Web Scraping Pipeline
-
-A Python project for collecting and processing information from multiple web sources.
-
-**Technologies:** Python, Web Scraping, Data Processing
-
-- Developed a pipeline to gather information from multiple sources.
-- Organized collected data for downstream processing and analysis.
+Python pipeline for collecting and processing information from multiple web sources.
 
 🔗 [GitHub Repository](https://github.com/naveen057/multi-source-web-scraping-pipeline)
 
 ### 🔧 5. Vehicle Service Management System
-
-A Django-based application for managing vehicle servicing workflows.
-
-**Technologies:** Python, Django, CSS, Database Management
-
-- Implemented functionality for customers, mechanics, and service requests.
-- Supported repair tracking, invoice management, and customer feedback.
+Django application for managing customers, mechanics, service requests, repairs, invoices, and feedback.
 
 🔗 [GitHub Repository](https://github.com/naveen057/vehicle-service-management-system)
 
 ### 📊 6. OpenPowerlifting Data Analysis
-
-A data analysis project exploring powerlifting datasets using Python and Jupyter Notebook.
-
-**Technologies:** Python, Pandas, Jupyter Notebook, Data Analysis
-
-- Explored and analyzed powerlifting data to identify patterns and trends.
-- Used data analysis techniques to derive insights from structured datasets.
+Data analysis project using Python and Jupyter Notebook to explore powerlifting datasets.
 
 🔗 [GitHub Repository](https://github.com/naveen057/openpowerlifting-data-analysis)
-
----
 
 ## 💡 My Development Workflow
 
