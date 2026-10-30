@@ -330,7 +330,7 @@ I'm interested in entry-level AI/ML opportunities, Python development, and proje
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome)](https://naveen057.ccbp.tech)
 [![Email](https://img.shields.io/badge/Email-Contact-CB3837?style=for-the-badge&logo=gmail)](mailto:venkatanaveendcme057@gmail.com)
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile! 
 
 *Keep learning. Keep building. Keep improving.* 🚀
 
